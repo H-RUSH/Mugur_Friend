@@ -1,0 +1,9 @@
+body{
+    background-color:#061021;
+    margin:0px;
+}
+#hdName{
+    color: white;
+    font-size:3rem;
+    padding-left:15px;
+}
